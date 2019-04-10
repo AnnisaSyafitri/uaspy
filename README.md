@@ -11,6 +11,7 @@
 
 4. Buat class utama dengan menurunkan dari class BaseApp dengan nama App (seusikan kode
 program pada main.py)
+
 ![6](https://user-images.githubusercontent.com/37321627/55878416-943a1f00-5bc6-11e9-8b66-435db74b1672.png)
 
 5. jalankan aplikasi
@@ -18,4 +19,5 @@ program pada main.py)
 
 6. Lakukan override pada method on_playing() tambahkan kode, apabila Player menyentuh
 Meteor lebih dari 5x maka program akan berakhir. (dengan perintah self.stop()) 
+
 ![5](https://user-images.githubusercontent.com/37321627/55878186-255cc600-5bc6-11e9-8df6-f71d1333899d.png)
